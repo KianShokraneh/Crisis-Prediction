@@ -1,5 +1,5 @@
 # ”Listening In”: Social Signal Detection for Crisis Prediction
-
+presentation link: https://www.canva.com/design/DAHAkQrw93s/dkOoMvHHXOMrgbz-Y0UfIg/edit?utm_content=DAHAkQrw93s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 ## Prerequisites
 
 - Python 3.9+
