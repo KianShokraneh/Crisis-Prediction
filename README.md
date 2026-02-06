@@ -1,8 +1,4 @@
-# PAIRS project: Smart Crisis Management Services (SCMS)
-
-Repo for AI modules for Smart Crisis Management Services in the PAIRS project.
-
-![Overview](./img.png)
+# ”Listening In”: Social Signal Detection for Crisis Prediction
 
 ## Prerequisites
 
